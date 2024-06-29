@@ -2,11 +2,25 @@
 
 This React application provides a user-friendly interface for police officers to manage cases and collaborate effectively.
 
-Tech Stack:
+## Tech Stack:
 
-- **Frontend**: React with TypeScript & SCSS
-- **Backend**: Node.js with Express (placeholder)
-- **Database**: MongoDB (placeholder)
+<div style="text-align: center; display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="React logo" />
+    <p style="font-size: 12px; margin-top: 5px;">React<br />TypeScript<br />SCSS</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Node.js logo" />
+    <p style="font-size: 12px; margin-top: 5px;">Node.js<br />Express (placeholder)</p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=4EA94B&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="MongoDB logo" />
+    <p style="font-size: 12px; margin-top: 5px;">MongoDB (placeholder)</p>
+  </div>
+</div>
+
 
 ## Features:
 
